@@ -2,7 +2,7 @@
   "domain": "ingeteam_modbus",
   "name": "Ingeteam Modbus",
   "documentation": "https://github.com/pwntester/home-assistant-ingeteam-modbus",
-  "requirements": ["pymodbus==3.8.3"],
+  "requirements": ["pymodbus==3.9.2"],
   "codeowners": ["@pwntester"],
   "config_flow": true,
   "version": "0.1.3"
